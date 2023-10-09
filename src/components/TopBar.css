@@ -1,0 +1,33 @@
+/* TopBar.css */
+
+.top-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: white;
+    border-bottom: 1px solid #dbdbdb;
+  }
+  
+  .top-bar__logo img {
+    width: 120px; /* Adjust the logo size as needed */
+  }
+  
+  .top-bar__search input {
+    width: 100%;
+    padding: 5px 10px;
+    border: 1px solid #dbdbdb;
+    border-radius: 3px;
+  }
+  
+  .top-bar__icons {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .top-bar__icons .icon img {
+    width: 24px; /* Adjust the icon size as needed */
+    cursor: pointer;
+  }
+  
