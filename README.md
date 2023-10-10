@@ -4,17 +4,17 @@ instagram user profile
 # Installation
 
 1.Clone the repository to your local machine
-  * git clone https://github.com/hsihtas/idesk-task
+* git clone https://github.com/hsihtas/idesk-task
 <br>
 2.Navigate to the project directory
-  * cd idesk-task
+* cd idesk-task
 <br>
 3.Install the dependencies
-  * npm install
-  * npm install axios react-router-dom react-icons
+* npm install
+* * npm install axios react-router-dom react-icons
 <br>
 4.Start the application
-  * npm start
+* npm start
 
 
 # Screenshots
