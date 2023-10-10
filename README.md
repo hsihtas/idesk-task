@@ -5,7 +5,7 @@ instagram user profile
 
 1.Clone the repository to your local machine
   - git clone https://github.com/hsihtas/idesk-task
-<br/>
+<br>
 2.Navigate to the project directory
   - cd idesk-task
 <br>
