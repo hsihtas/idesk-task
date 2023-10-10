@@ -11,7 +11,7 @@ instagram user profile
 <br>
 3.Install the dependencies
 * npm install
-* * npm install axios react-router-dom react-icons
+* npm install axios react-router-dom react-icons
 <br>
 4.Start the application
 * npm start
